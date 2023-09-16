@@ -10,3 +10,5 @@ type Note @model @auth(rules: [{ allow: owner }]) {
 #GraphQL endpoint: https://eqvrirhqu5hhzdltmsd3k4fs6e.appsync-api.us-west-1.amazonaws.com/graphql
 #GraphQL API KEY: da2-oh63hvfht5g2xl3lfvuijdtere
 
+
+
